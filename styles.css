@@ -56,6 +56,7 @@ body {
 }
 
 .header p {
+    font-family: jetbrains-mono, monospace;
     font-size: 1.05rem;
     color: var(--text-secondary);
     font-weight: 400;
